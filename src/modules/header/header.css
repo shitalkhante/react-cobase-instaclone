@@ -1,0 +1,33 @@
+.header{
+    width: 90%;
+    margin:  20px auto;
+}
+
+#left-header{
+    background: transparent url('../img/icon.png') 0% 0% no-repeat padding-box;
+    display: inline-block;
+}
+
+#text-left-header{
+    display: inline;
+    margin-left: 70px;
+    text-align: right;
+    font: normal normal normal 64px/71px Palatino;
+    letter-spacing: 0px;
+    color: #006238;
+}
+
+#right-header{
+    float: right;
+    margin-top: 10px;
+}
+
+#camera-icon{
+    width: 48px;
+    height: 48px;
+}
+
+hr{
+    background-color: #006238;
+    height: 0.5px;
+}
